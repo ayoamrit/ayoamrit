@@ -1,7 +1,7 @@
 ## I'm Amrit Dhaliwal!
 > "Anyone who keeps learning stays young." - Henry Ford
 
-I would like to pursue the career of being a professional software or game developer in Java/C++ becuase I love coding in those two languages and I have done a bit in Python as well. As a thinking introvert, I enjoy reading philosophy, poetry, and pre-literary history.  
+I love coding in Java & C++ and I have done a bit in Python as well. As a thinking introvert, I enjoy reading philosophy, poetry, and pre-literary history.  
 
 - *Currently:* Computer Information Systems Student at Kwantlen Polytechnic University.
 
