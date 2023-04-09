@@ -1,13 +1,9 @@
 ## I'm Amrit Dhaliwal!
-> "Anyone who keeps learning stays young." - Henry Ford
+I possess a strong foundation in programming, data structures, algorithms, and other essential computer science concepts. With my knowledge of various programming languages, including Java, C++, and Python, I have the ability to design and develop software applications and solve complex problems. Additionally, my experience in team-based projects and my excellent communication skills make me a valuable asset in any computer-related role.
 
-I love coding in Java & C++ and I have done a bit in Python as well. As a thinking introvert, I enjoy reading philosophy, poetry, and pre-literary history.  
+In the past, I have worked on projects utilizing Maven and Gradle, JDBC, and API's. I have experience with Tkinter, standard GUI library for Python, and C++. In addition, so far I have Java, C++, Python, MySQL, HTML, CSS under my belt.
 
-- *Currently:* Computer Information Systems Student at Kwantlen Polytechnic University.
-
-## Experience
-- *Recently:* Apart from my school projects, I developed a software for [Fleetwood Immigration Company](http://www.fleetwoodimmigration.com/) in Tkinter, standard GUI library for Python.
-
+I am passionate about technology an am eager to learn and expand my skillset. I am excited to begin my career in the technology industry and am eager to contribute to innovative projects and collaborate with other professionals in the field.
 ## Connect
 - [Instagram](https://www.instagram.com/ayoamrit/)
 - [Linkedin](https://www.linkedin.com/in/amrit-dhaliwal-29a934248/)
