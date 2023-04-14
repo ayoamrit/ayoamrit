@@ -1,4 +1,5 @@
 ## I'm Amrit Dhaliwal!
+![Untitled video - Made with Clipchamp](https://user-images.githubusercontent.com/90580293/231950118-820b85cc-e5e8-4456-bc73-e9050d7d81f9.gif)
 
 
 https://user-images.githubusercontent.com/90580293/231949991-3b6045e7-5dbf-41b0-bc59-4fc5a2811fcb.mp4
