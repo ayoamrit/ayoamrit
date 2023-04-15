@@ -1,4 +1,5 @@
 ## I'm Amrit Dhaliwal!
+![Profile banner](https://user-images.githubusercontent.com/90580293/232175776-b168621c-d5d4-4f2b-9c90-85e2ea212503.png)
 
 I possess a strong foundation in programming, data structures, algorithms, and other essential computer science concepts. With my knowledge of various programming languages, including Java, C++, and Python, I have the ability to design and develop software applications and solve complex problems.
 
