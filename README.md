@@ -30,7 +30,7 @@
 <!-- GitHub Stats and Most Used Languages -->
 <div align="center">
   <div style="display: flex; justify-content: center; align-items: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=ayoamrit&show_icons=true&count_private=true&include_all_commits=true&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" width="50%" height="200" style="display: inline-block;" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayoamrit&layout=compact&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite" width="50%" height="200" style="display: inline-block;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayoamrit&layout=compact&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite" width="50%" height="200" style="display: inline-block;" />
   </div>
 </div>
 
