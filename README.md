@@ -3,7 +3,7 @@
   <p><em>"Digital Craftsman"</em></p>
 </blockquote>
 <p align="center">
-  I'm an aspiring software developer with a deep passion for coding and problem-solving. While I may not have professional experience yet, I'm dedicated to honing my skills and building a strong foundation in programming.
+  I'm a dedicated and ambitious software developer with a strong passion for coding and a commitment to building a solid foundation in programming. While I'm currently in the early stages of my career, I'm highly motivated to excel and continuously improve my skills in software development.
 </p>
 
 
