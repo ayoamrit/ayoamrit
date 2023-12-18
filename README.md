@@ -1,7 +1,4 @@
-<h1 align="center">👋 Hi, I'm Amrit Dhaliwal</h1>
-<blockquote align="center">
-  <p><em>"Digital Craftsman"</em></p>
-</blockquote>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
