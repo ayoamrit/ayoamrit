@@ -2,21 +2,7 @@
 <blockquote align="center">
   <p><em>"Digital Craftsman"</em></p>
 </blockquote>
-<p align="center">
-  I'm a dedicated and ambitious software developer with a strong passion for coding and a commitment to building a solid foundation in programming. While I'm currently in the early stages of my career, I'm highly motivated to excel and continuously improve my skills in software development.
-</p>
 
-
-<!-- About Me Section -->
-## About Me
-- 💻 Proficient in Java, C#, C++, and Python.
-- 📦 Experienced with Maven and Gradle for project management.
-- 📊 Worked with JDBC and APIs.
-- 🖥️ Familiar with Tkinter, a Python GUI library.
-- 🌐 Skills include Java, C++, Python, MySQL, HTML, CSS, and JavaScript.
-
-<!-- Tech Stack Badges -->
-## Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
